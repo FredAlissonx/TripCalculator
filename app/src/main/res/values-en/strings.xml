@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trip Calculator</string>
+    <string name="distance">Distance</string>
+    <string name="total_km">Total kilometers of travel</string>
+    <string name="price">Price</string>
+    <string name="price_per_liter">Gas price per liter</string>
+    <string name="autonomy">Vehicle Autonomy</string>
+    <string name="kms_per_liter">Kilometers per liter</string>
+    <string name="total_spend">Your total spends will be:</string>
+    <string name="total_value">$ 0</string>
+    <string name="calculate">Calcule</string>
+    <string name="validation_fill_all_fields">" Fill in all fields"</string>
+</resources>
